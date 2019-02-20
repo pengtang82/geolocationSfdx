@@ -2,14 +2,14 @@
     [
         "/Users/nicktang/Documents/vscode/sfdxWorkspace/geolocation/force-app",
         {
-            "state": "n",
             "sourcePath": "/Users/nicktang/Documents/vscode/sfdxWorkspace/geolocation/force-app",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 96,
             "modifiedTime": 1550580661973,
             "changeTime": 1550580661973,
             "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": true
         }
@@ -17,14 +17,14 @@
     [
         "/Users/nicktang/Documents/vscode/sfdxWorkspace/geolocation/force-app/main",
         {
-            "state": "n",
             "sourcePath": "/Users/nicktang/Documents/vscode/sfdxWorkspace/geolocation/force-app/main",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 96,
             "modifiedTime": 1550580661973,
             "changeTime": 1550580661973,
             "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -36,53 +36,23 @@
             "sourcePath": "/Users/nicktang/Documents/vscode/sfdxWorkspace/geolocation/force-app/main/default",
             "isDirectory": true,
             "isMetadataFile": false,
-            "size": 256,
-            "modifiedTime": 1550623701641,
-            "changeTime": 1550623701641,
-            "contentHash": "7af1e1622268d15ee145ab4e619ec72e2e761772"
-        }
-    ],
-    [
-        "/Users/nicktang/Documents/vscode/sfdxWorkspace/geolocation/force-app/main/default/aura",
-        {
-            "state": "n",
-            "sourcePath": "/Users/nicktang/Documents/vscode/sfdxWorkspace/geolocation/force-app/main/default/aura",
-            "isDirectory": true,
-            "isMetadataFile": false,
-            "size": 64,
-            "modifiedTime": 1550580661973,
-            "changeTime": 1550580661973,
-            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
-            "isWorkspace": false,
-            "isArtifactRoot": false
-        }
-    ],
-    [
-        "/Users/nicktang/Documents/vscode/sfdxWorkspace/geolocation/force-app/main/default/lwc",
-        {
-            "state": "n",
-            "sourcePath": "/Users/nicktang/Documents/vscode/sfdxWorkspace/geolocation/force-app/main/default/lwc",
-            "isDirectory": true,
-            "isMetadataFile": false,
-            "size": 64,
-            "modifiedTime": 1550580661973,
-            "changeTime": 1550580661973,
-            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
-            "isWorkspace": false,
-            "isArtifactRoot": false
+            "size": 224,
+            "modifiedTime": 1550639837968,
+            "changeTime": 1550639837968,
+            "contentHash": "2c02d3f217194dc243e068a1e70de23c7f4fb013"
         }
     ],
     [
         "/Users/nicktang/Documents/vscode/sfdxWorkspace/geolocation",
         {
-            "state": "n",
             "sourcePath": "/Users/nicktang/Documents/vscode/sfdxWorkspace/geolocation",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 256,
             "modifiedTime": 1550581665771,
             "changeTime": 1550581665771,
             "contentHash": "07da07834d8f50a1018cf646c911906296572a7c",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": true,
             "isArtifactRoot": false
         }
@@ -90,170 +60,209 @@
     [
         "/Users/nicktang/Documents/vscode/sfdxWorkspace/geolocation/force-app/main/default/settings/OrgPreference.settings-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/nicktang/Documents/vscode/sfdxWorkspace/geolocation/force-app/main/default/settings/OrgPreference.settings-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 6383,
-            "modifiedTime": 1550623701525,
+            "modifiedTime": 1550638068387,
             "changeTime": 1550623701525,
-            "contentHash": "53153da293978b02d191b6ae64f72eae1e200c56"
+            "contentHash": "53153da293978b02d191b6ae64f72eae1e200c56",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "/Users/nicktang/Documents/vscode/sfdxWorkspace/geolocation/force-app/main/default/objects/Account/fields/Location__c.field-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/nicktang/Documents/vscode/sfdxWorkspace/geolocation/force-app/main/default/objects/Account/fields/Location__c.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 404,
-            "modifiedTime": 1550623701543,
+            "modifiedTime": 1550638068385,
             "changeTime": 1550623701543,
-            "contentHash": "4d2f163b141a91a4b7fcdba55159299e4af10836"
+            "contentHash": "4d2f163b141a91a4b7fcdba55159299e4af10836",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "/Users/nicktang/Documents/vscode/sfdxWorkspace/geolocation/force-app/main/default/layouts/Account-Account %28Sales%29 Layout.layout-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/nicktang/Documents/vscode/sfdxWorkspace/geolocation/force-app/main/default/layouts/Account-Account %28Sales%29 Layout.layout-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 9582,
-            "modifiedTime": 1550623701556,
+            "modifiedTime": 1550638068383,
             "changeTime": 1550623701556,
-            "contentHash": "b1147d7789c84115e211f58721fa912fea93654c"
+            "contentHash": "b1147d7789c84115e211f58721fa912fea93654c",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "/Users/nicktang/Documents/vscode/sfdxWorkspace/geolocation/force-app/main/default/layouts/Account-Account %28Support%29 Layout.layout-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/nicktang/Documents/vscode/sfdxWorkspace/geolocation/force-app/main/default/layouts/Account-Account %28Support%29 Layout.layout-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 9630,
-            "modifiedTime": 1550623701576,
+            "modifiedTime": 1550638068383,
             "changeTime": 1550623701576,
-            "contentHash": "3d2eb4a1cc29b3e1dc5e6feba7e37fa152623195"
+            "contentHash": "3d2eb4a1cc29b3e1dc5e6feba7e37fa152623195",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "/Users/nicktang/Documents/vscode/sfdxWorkspace/geolocation/force-app/main/default/layouts/Account-Account Layout.layout-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/nicktang/Documents/vscode/sfdxWorkspace/geolocation/force-app/main/default/layouts/Account-Account Layout.layout-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 9582,
-            "modifiedTime": 1550623701606,
+            "modifiedTime": 1550638068384,
             "changeTime": 1550623701606,
-            "contentHash": "ae2a52f5aed66a201000ad6ac9a92ea7f3734278"
+            "contentHash": "ae2a52f5aed66a201000ad6ac9a92ea7f3734278",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "/Users/nicktang/Documents/vscode/sfdxWorkspace/geolocation/force-app/main/default/layouts/Account-Account %28Marketing%29 Layout.layout-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/nicktang/Documents/vscode/sfdxWorkspace/geolocation/force-app/main/default/layouts/Account-Account %28Marketing%29 Layout.layout-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 9630,
-            "modifiedTime": 1550623701621,
+            "modifiedTime": 1550638068382,
             "changeTime": 1550623701621,
-            "contentHash": "dcdf8712700a9c47addd7bf70102c8aa5cd38a22"
+            "contentHash": "dcdf8712700a9c47addd7bf70102c8aa5cd38a22",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "/Users/nicktang/Documents/vscode/sfdxWorkspace/geolocation/force-app/main/default/permissionsets/Geolocation.permissionset-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/nicktang/Documents/vscode/sfdxWorkspace/geolocation/force-app/main/default/permissionsets/Geolocation.permissionset-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 366,
-            "modifiedTime": 1550623701642,
+            "modifiedTime": 1550638068386,
             "changeTime": 1550623701642,
-            "contentHash": "22561a9d689e7899abdd423d8b7cfcab331df915"
+            "contentHash": "22561a9d689e7899abdd423d8b7cfcab331df915",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "/Users/nicktang/Documents/vscode/sfdxWorkspace/geolocation/force-app/main/default/settings",
         {
-            "state": "u",
             "sourcePath": "/Users/nicktang/Documents/vscode/sfdxWorkspace/geolocation/force-app/main/default/settings",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 96,
-            "modifiedTime": 1550623701525,
+            "modifiedTime": 1550638068387,
             "changeTime": 1550623701525,
-            "contentHash": "51a767161ecb76df77be39042e42cbb2d91005fb"
+            "contentHash": "51a767161ecb76df77be39042e42cbb2d91005fb",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/nicktang/Documents/vscode/sfdxWorkspace/geolocation/force-app/main/default/objects/Account/fields",
         {
-            "state": "u",
             "sourcePath": "/Users/nicktang/Documents/vscode/sfdxWorkspace/geolocation/force-app/main/default/objects/Account/fields",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 96,
-            "modifiedTime": 1550623701542,
+            "modifiedTime": 1550638068385,
             "changeTime": 1550623701542,
-            "contentHash": "64560c84ade9015d36bd21e8436a4d2662babedc"
+            "contentHash": "64560c84ade9015d36bd21e8436a4d2662babedc",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/nicktang/Documents/vscode/sfdxWorkspace/geolocation/force-app/main/default/objects/Account",
         {
-            "state": "u",
             "sourcePath": "/Users/nicktang/Documents/vscode/sfdxWorkspace/geolocation/force-app/main/default/objects/Account",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 96,
-            "modifiedTime": 1550623701542,
+            "modifiedTime": 1550638068385,
             "changeTime": 1550623701542,
-            "contentHash": "70f132fe13e692866a539996a6b9a05b46076a07"
+            "contentHash": "70f132fe13e692866a539996a6b9a05b46076a07",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/nicktang/Documents/vscode/sfdxWorkspace/geolocation/force-app/main/default/objects",
         {
-            "state": "u",
             "sourcePath": "/Users/nicktang/Documents/vscode/sfdxWorkspace/geolocation/force-app/main/default/objects",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 96,
-            "modifiedTime": 1550623701542,
+            "modifiedTime": 1550638068384,
             "changeTime": 1550623701542,
-            "contentHash": "85dfa32c97d8618d1bea083609e2c8a29845abe5"
+            "contentHash": "85dfa32c97d8618d1bea083609e2c8a29845abe5",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/nicktang/Documents/vscode/sfdxWorkspace/geolocation/force-app/main/default/layouts",
         {
-            "state": "u",
             "sourcePath": "/Users/nicktang/Documents/vscode/sfdxWorkspace/geolocation/force-app/main/default/layouts",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 192,
-            "modifiedTime": 1550623701620,
+            "modifiedTime": 1550638068384,
             "changeTime": 1550623701620,
-            "contentHash": "e3687f65b0885128a02e534ece5e0cf3ce9f38c0"
+            "contentHash": "e3687f65b0885128a02e534ece5e0cf3ce9f38c0",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/nicktang/Documents/vscode/sfdxWorkspace/geolocation/force-app/main/default/permissionsets",
         {
-            "state": "u",
             "sourcePath": "/Users/nicktang/Documents/vscode/sfdxWorkspace/geolocation/force-app/main/default/permissionsets",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 96,
-            "modifiedTime": 1550623701641,
+            "modifiedTime": 1550638068386,
             "changeTime": 1550623701641,
-            "contentHash": "3997b26d8a7f6692d5d741c4ac6d7985687d23ba"
+            "contentHash": "3997b26d8a7f6692d5d741c4ac6d7985687d23ba",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/nicktang/Documents/vscode/sfdxWorkspace/geolocation/force-app/main/default/classes",
+        {
+            "state": "u",
+            "sourcePath": "/Users/nicktang/Documents/vscode/sfdxWorkspace/geolocation/force-app/main/default/classes",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 128,
+            "modifiedTime": 1550639837985,
+            "changeTime": 1550639837985,
+            "contentHash": "c1cd31a661b28d7140627a94a16c864875d58a42"
+        }
+    ],
+    [
+        "/Users/nicktang/Documents/vscode/sfdxWorkspace/geolocation/force-app/main/default/classes/AccountController.cls",
+        {
+            "state": "u",
+            "sourcePath": "/Users/nicktang/Documents/vscode/sfdxWorkspace/geolocation/force-app/main/default/classes/AccountController.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 293,
+            "modifiedTime": 1550639878174,
+            "changeTime": 1550639878174,
+            "contentHash": "8fde073151082df06ee0dfccf1250ef72d79271e"
+        }
+    ],
+    [
+        "/Users/nicktang/Documents/vscode/sfdxWorkspace/geolocation/force-app/main/default/classes/AccountController.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/nicktang/Documents/vscode/sfdxWorkspace/geolocation/force-app/main/default/classes/AccountController.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 195,
+            "modifiedTime": 1550639837986,
+            "changeTime": 1550639837986,
+            "contentHash": "7acf1df0ec0781930c8dacf0ffedfb1e5aa2864f"
         }
     ]
 ]
